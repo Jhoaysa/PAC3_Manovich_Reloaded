@@ -1,8 +1,11 @@
 # REPTE 3: Visionant el futur amb les ulleres de Manovich: redescobrint la hibridació
 
-Autor: Lisbett Jhoaysa Arcani
+**Autor**: Lisbett Jhoaysa Arcani
 
-Assignatura: Cultura Digital aula 1
+**Assignatura**: Cultura Digital aula 1
+
+
+
 
 ## Plantejament
 ![Imatge de El tiempo](https://www.eltiempo.com/files/image_1200_680/uploads/2019/12/07/5dec47012d257.jpeg)
